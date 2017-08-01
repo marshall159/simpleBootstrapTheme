@@ -5,3 +5,25 @@
 .menu-link {
     letter-spacing: 3.5px;   
 }
+
+
+.bg-1 {
+    background: #1abc9c;
+    color: #fff;
+}
+
+.bg-1 h1 {
+    font-size: 4rem;
+    padding: 4%;
+}
+
+.bg-1 p {
+    font-size: 3rem;
+    padding: 4%;
+}
+
+.bg-2 {
+    background: #474e5d;
+    color: #fff;
+    padding: 4%;
+}
