@@ -1,10 +1,14 @@
 /* Navigation 
 ================================================= */
 
+
 .navbar-brand,
 .menu-link {
     letter-spacing: 3.5px;   
 }
+
+/* Main Content 
+=================================================== */
 
 
 .bg-1 {
@@ -27,3 +31,20 @@
     color: #fff;
     padding: 4%;
 }
+
+.bg-2 p {
+    padding: 2%;
+    font-size: 1.7rem;
+}
+
+.bg-3 h2 {
+    padding: 4% 0 2% 0;
+}
+
+.bg-3 p {
+    padding: 4%;
+    font-size: 1.7rem;
+}
+
+/* Footer 
+==================================================== */
